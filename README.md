@@ -1,7 +1,7 @@
 # Sales and Customer insights analysis
 
 ## Project Overview
-This synthetic retail transaction dataset contains sales, production and customer data with common data quality issues. It is designed for practicing data cleaning, analysis and visualization to uncover sales and customer insights.
+This synthetic retail transaction dataset contains sales, product and customer data with common data quality issues. It is designed for practicing data cleaning, analysis and visualization to uncover sales and customer insights.
 ## Data Structure
 The structure as seen below consists of 3 tables: customer_info, production_info and sales_data with a total record of 2997 after cleaning.
 
